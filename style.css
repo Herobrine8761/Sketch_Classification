@@ -1,0 +1,21 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#score{
+    font-size: 15px;
+    margin-left: 15px;
+}
+#timer{
+    font-size: 15px;
+    float: right;
+    margin-right: 15px;
+}
+#sketch_to_draw{
+    color: beige;
+    font-size: 16px;
+}
+#new_drawing{
+    width: 75px;
+    height: 35px;
+}
